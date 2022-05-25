@@ -9,4 +9,4 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-![Alt text](/https://postfiles.pstatic.net/MjAyMjAzMTBfMjU0/MDAxNjQ2OTIzMjQ0MzE2.UEDyCwVrWuCCcQ6MCFp_dCb7-RtCScUYu8w9ftRiPjEg.3cnlIs9QSUlrAhMzSq_wIJ5heLaDVKs4IfZqyF6ZdnYg.JPEG.pinkgirl1639/cu1643802631908.JPEG?type=w966/to/img.jpg)
+<img src="https://postfiles.pstatic.net/MjAyMjAzMTBfMTA4/MDAxNjQ2OTIzMjQ0Mjc4.mT7qTXmZFqn6tgWZFiCJipmENdq7gSXmg2Fxb346zAwg.23rXwBwNhnkEQGo1qo2kLfUSI_eic-51eMdMLrewFkQg.JPEG.pinkgirl1639/cu1646576123938.JPEG?type=w966" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
