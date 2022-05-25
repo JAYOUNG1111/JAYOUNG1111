@@ -8,3 +8,4 @@
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
+![Alt text](/path/to/img.jpg)
